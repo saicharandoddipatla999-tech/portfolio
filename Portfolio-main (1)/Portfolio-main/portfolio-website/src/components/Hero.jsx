@@ -6,8 +6,8 @@ const Hero = () => {
   const handleDownloadResume = () => {
     // Replace with actual resume file path
     const link = document.createElement('a')
-    link.href = '/Abhi_resume1.pdf'
-    link.download = 'Venkata_Abhilash_Kommana_Resume.pdf'
+    link.href = '/saicharan_resume.pdf'
+    link.download = 'Sai_Charan_Doddipatla_Resume.pdf'
     link.click()
   }
 
@@ -40,8 +40,8 @@ const Hero = () => {
               transition={{ delay: 0.3 }}
               className="text-5xl md:text-7xl font-bold mb-4"
             >
-              Venkata Abhilash
-              <span className="block gradient-text">Kommana</span>
+              Sai Charan
+              <span className="block gradient-text">Doddipatla</span>
             </motion.h1>
             
             <motion.div
@@ -88,7 +88,7 @@ const Hero = () => {
               </button>
               
               <a
-                href="https://github.com/Abhilash-42"
+                href="https://github.com/saicharandoddipatla999-tech"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-6 py-3 glass hover:border-primary/50 text-white rounded-full font-medium transition-all duration-300 hover:scale-105"
@@ -97,7 +97,7 @@ const Hero = () => {
               </a>
               
               <a
-                href="https://www.linkedin.com/in/abhi-kommana"
+                href="https://www.linkedin.com/in/Sai-Charan-doodipatla"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-6 py-3 glass hover:border-primary/50 text-white rounded-full font-medium transition-all duration-300 hover:scale-105"
@@ -120,7 +120,7 @@ const Hero = () => {
                 {/* Replace with actual profile image */}
                 <img
                   src="/profile.jpeg"
-                  alt="Venkata Abhilash Kommana"
+                  alt="Sai Charan Doddipatla"
                   className="w-full h-full object-cover"
                 />
               </div>
