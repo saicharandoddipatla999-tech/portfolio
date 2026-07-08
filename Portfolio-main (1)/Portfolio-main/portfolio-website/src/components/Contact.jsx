@@ -27,26 +27,26 @@ const Contact = () => {
     {
       icon: FiMail,
       label: 'Email',
-      value: 'abhikommana@gmail.com',
-      link: 'mailto:abhikommana@gmail.com',
+      value: 'saicharandoddipatla999@gmail.com',
+      link: 'mailto:saicharandoddipatla999@gmail.com',
     },
     {
       icon: FiPhone,
       label: 'Phone',
-      value: '+91 9121872599',
-      link: 'tel:+919121872599',
+      value: '+91 7330809916',
+      link: 'tel:+917330809916',
     },
     {
       icon: FiLinkedin,
       label: 'LinkedIn',
-      value: '@abhi-kommana',
-      link: 'https://www.linkedin.com/in/abhi-kommana',
+      value: '@Sai_Charan_Doodipatla',
+      link: 'https://www.linkedin.com/in/sai-charan-doodipatla',
     },
     {
       icon: FiGithub,
       label: 'GitHub',
-      value: '@Abhilash-42',
-      link: 'https://github.com/Abhilash-42',
+      value: '@saicharandoddipatla999-tech',
+      link: 'https://github.com/saicharandoddipatla999-tech',
     },
   ]
 
