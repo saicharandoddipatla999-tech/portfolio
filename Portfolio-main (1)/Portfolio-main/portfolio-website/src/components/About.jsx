@@ -49,7 +49,7 @@ const About = () => {
               <h3 className="text-xl font-semibold">Who I Am</h3>
             </div>
             <p className="text-gray-400 leading-relaxed">
-              I'm Venkata Abhilash Kommana, a dedicated AI & Machine Learning student at KIET. 
+              I'm Sai Charan Doddipatla, a dedicated AI & Machine Learning student at KIET. 
               My passion lies in creating intelligent solutions that solve real-world problems.
             </p>
           </motion.div>
