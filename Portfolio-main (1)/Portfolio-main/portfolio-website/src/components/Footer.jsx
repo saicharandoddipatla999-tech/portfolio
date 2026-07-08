@@ -18,7 +18,7 @@ const Footer = () => {
           
           <div className="flex items-center gap-6">
             <a
-              href="https://github.com/Abhilash-42"
+              href="https://github.com/saicharandoddipatla999-tech"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-primary transition-colors duration-300"
@@ -26,7 +26,7 @@ const Footer = () => {
               <FiGithub size={20} />
             </a>
             <a
-              href="https://www.linkedin.com/in/abhi-kommana"
+              href="https://www.linkedin.com/in/Sai_Charan_Doodipatla"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-primary transition-colors duration-300"
@@ -34,7 +34,7 @@ const Footer = () => {
               <FiLinkedin size={20} />
             </a>
             <a
-              href="mailto:abhikommana@gmail.com"
+              href="mailto:saicharandoddipatla999@gmail.com"
               className="text-gray-400 hover:text-primary transition-colors duration-300"
             >
               <FiMail size={20} />
