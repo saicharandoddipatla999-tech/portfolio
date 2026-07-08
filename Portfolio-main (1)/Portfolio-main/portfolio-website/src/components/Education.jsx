@@ -26,9 +26,9 @@ const Education = () => {
     {
       degree: 'SSC',
       field: 'Secondary School Certificate',
-      institution: 'Z.P.P High School, Vanapalli',
+      institution: 'Z.P.P High School, Ambajipeta',
       year: '2020',
-      location: 'Vanapalli, India',
+      location: 'Ambajipeta, India',
     },
   ]
 
